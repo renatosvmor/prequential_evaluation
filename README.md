@@ -4,7 +4,7 @@ The file **prequential_evaluation.py** includes the function **prequential_learn
 
 This training pipeline has been used in the following papers:
 
-- **Silva, R. M., Pires, P. R., & Almeida, T. A. (2023)**. *Incremental learning for fake news detection*. Journal of Information and Data Management, 13(6). [https://doi.org/10.5753/jidm.2022.2542](https://doi.org/10.5753/jidm.2022.2542)
+- **Silva, R. M., Pires, P. R., & Almeida, T. A. (2023)**. *Incremental learning for fake news detection*. Journal of Information and Data Management, 13(6). [https://sol.sbc.org.br/journals/index.php/jidm/article/view/2542](https://sol.sbc.org.br/journals/index.php/jidm/article/view/2542)
 
 - **Silva, R. M., & Almeida, T. A. (2021)**. How concept drift can impair the classification of fake news. In *Proceedings of the 9th Symposium on Knowledge Discovery, Mining and Learning (KDMiLe'21)* (pp. 1–8). Brazilian Computing Society. [https://doi.org/10.5753/kdmile.2021.17469](https://doi.org/10.5753/kdmile.2021.17469)
 
